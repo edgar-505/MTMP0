@@ -1,0 +1,24 @@
+.callout[data-callout=blueempty] {
+    --callout-color: 115, 120, 245;
+    --callout-icon: icon-id;
+}
+
+.callout[data-callout=yellowempty] {
+    --callout-color: 194, 185, 21;
+    --callout-icon: icon-id;
+}
+
+.callout[data-callout=greenempty] {
+    --callout-color: 41, 194, 21;
+    --callout-icon: icon-id;
+}
+
+.callout[data-callout=grayempty] {
+    --callout-color: 199, 197, 197;
+    --callout-icon: icon-id;
+}
+
+.callout[data-callout=redempty] {
+    --callout-color: 250, 167, 167;
+    --callout-icon: icon-id;
+}
