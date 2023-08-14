@@ -5,8 +5,8 @@
 .tag[href="#lxn"]:after {
   justify-content: space-between;
   font-size: 8pt;
-  font-weight: 700;
-  background-color: rgb(21, 173, 46);
+  font-weight: 400;
+  background-color: rgb(24, 120, 40);
   color: rgb(237, 237, 237);
   padding: 3px 3px;
   border-radius: 3px;
@@ -14,14 +14,14 @@
   content: "🌱 LEXICONUS";
 }
 
-.tag[href="#nbyn"] {
+.tag[href="#egm"] {
   font-size: 0;
   padding: 0;
 }
-.tag[href="#engrm"]:after {
+.tag[href="#egm"]:after {
     justify-content: space-between;
   font-size: 8pt;
-  font-weight: 700;
+  font-weight: 400;
   background-color: rgb(230, 185, 50);
   color: rgb(237, 237, 237);
   padding: 3px 3px;
@@ -29,14 +29,14 @@
   content: "🌻 ENGRAMS";
 }
 
-.tag[href="#nbyn"] {
+.tag[href="#nby"] {
   font-size: 0;
   padding: 0;
 }
-.tag[href="#nbyn"]:after {
+.tag[href="#nby"]:after {
     justify-content: space-between;
   font-size: 8pt;
-  font-weight: 700;
+  font-weight: 400;
   background-color: rgb(212, 119, 6);
   color: rgb(237, 237, 237);
   padding: 3px 3px;
@@ -44,14 +44,14 @@
   content: "🌞 NABIYEEN";
 }
 
-.tag[href="#smtc"] {
+.tag[href="#smc"] {
   font-size: 0;
   padding: 0;
 }
-.tag[href="#smtc"]:after {
+.tag[href="#smc"]:after {
     justify-content: space-between;
   font-size: 8pt;
-  font-weight: 700;
+  font-weight: 400;
   background-color: rgb(4, 176, 214);
   color: rgb(237, 237, 237);
   padding: 3px 3px;
