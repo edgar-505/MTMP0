@@ -1,0 +1,60 @@
+.tag[href="#lxn"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#lxn"]:after {
+  justify-content: space-between;
+  font-size: 8pt;
+  font-weight: 700;
+  background-color: rgb(165, 29, 42);
+  color: rgb(46, 179, 5);
+  padding: 3px 3px;
+  border-radius: 3px;
+  letter-spacing: -0.00ch;
+  content: "🌱 LEXICONUS";
+}
+
+.tag[href="#nbyn"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#engrm"]:after {
+    justify-content: space-between;
+  font-size: 8pt;
+  font-weight: 700;
+  background-color: rgb(200, 150, 0);
+  color: rgb(232, 230, 227);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "🌻 ENGRAMS";
+}
+
+.tag[href="#nbyn"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#nbyn"]:after {
+    justify-content: space-between;
+  font-size: 8pt;
+  font-weight: 700;
+  background-color: rgb(212, 119, 6);
+  color: rgb(232, 230, 227);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "🌞 NABIYEEN";
+}
+
+.tag[href="#smtc"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#smtc"]:after {
+    justify-content: space-between;
+  font-size: 8pt;
+  font-weight: 700;
+  background-color: rgb(4, 176, 214);
+  color: rgb(232, 230, 227);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "☁️ SEMANTIC";
+}
