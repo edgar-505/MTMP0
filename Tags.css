@@ -4,7 +4,8 @@
 }
 .tag[href="#lxn"]:after {
   justify-content: space-between;
-  border-width: 1px;
+  border-style: solid;
+  border-width: thin;
   border-color: rgb(24, 120, 40);
   font-size: 8pt;
   font-weight: 400;
@@ -22,7 +23,8 @@
 }
 .tag[href="#egm"]:after {
   justify-content: space-between;
-  border-width: 1px;
+  border-style: solid;
+  border-width: thin;
   border-color: rgb(230, 185, 50);
   font-size: 8pt;
   font-weight: 400;
@@ -39,7 +41,8 @@
 }
 .tag[href="#nby"]:after {
     justify-content: space-between;
-  border-width: 1px;
+  border-style: solid;
+  border-width: thin;
   border-color: rgb(212, 119, 6);
   font-size: 8pt;
   font-weight: 400;
@@ -56,7 +59,8 @@
 }
 .tag[href="#smc"]:after {
     justify-content: space-between;
-   border-width: 1px;
+   border-style: solid;
+  border-width: thin;
   border-color: rgb(227, 229, 230);
   font-size: 8pt;
   font-weight: 400;
@@ -73,7 +77,8 @@
 }
 .tag[href="#srh"]:after {
     justify-content: space-between;
-   border-width: 1px;
+  border-style: solid;
+  border-width: thin;
   border-color: rgb(212, 119, 6);
   font-size: 8pt;
   font-weight: 400;
