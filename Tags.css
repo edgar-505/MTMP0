@@ -6,6 +6,25 @@
   justify-content: space-between;
   border-style: solid;
   border-width: thin;
+  border-color: rgb(212, 130, 15);
+  font-size: 8pt;
+  font-weight: 400;
+  background-color: rgb(30, 30, 30);
+  color: rgb(237, 237, 237);
+  padding: 3px 3px;
+  border-radius: 3px;
+  letter-spacing: -0.00ch;
+  content: "🌾 LEXICONUS";
+}
+
+.tag[href="#rut"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#rut"]:after {
+  justify-content: space-between;
+  border-style: solid;
+  border-width: thin;
   border-color: rgb(24, 120, 40);
   font-size: 8pt;
   font-weight: 400;
@@ -14,7 +33,7 @@
   padding: 3px 3px;
   border-radius: 3px;
   letter-spacing: -0.00ch;
-  content: "🌱 LEXICONUS";
+  content: "🌿 ROOT";
 }
 
 .tag[href="#egm"] {
@@ -43,14 +62,14 @@
     justify-content: space-between;
   border-style: solid;
   border-width: thin;
-  border-color: rgb(212, 119, 6);
+  border-color: rgb(237, 229, 2);
   font-size: 8pt;
   font-weight: 400;
   background-color: rgb(30, 30, 30);
   color: rgb(237, 237, 237);
   padding: 3px 3px;
   border-radius: 3px;
-  content: "🌞 PROGNOSTIC";
+  content: "🌙 PROGNOSTIC";
 }
 
 .tag[href="#smc"] {
@@ -88,3 +107,22 @@
   border-radius: 3px;
   content: "🌊 SURAH";
 }
+
+.tag[href="#imd"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#imd"]:after {
+    justify-content: space-between;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(9, 227, 162);
+  font-size: 8pt;
+  font-weight: 400;
+  background-color: rgb(30, 30, 30);
+  color: rgb(237, 237, 237);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "♻️ IN_MANIFEST_DISCLOSURE";
+}
+
