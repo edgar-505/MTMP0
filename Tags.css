@@ -54,6 +54,24 @@
   content: "🌻 ENGRAMS";
 }
 
+.tag[href="#mnr"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#mnr"]:after {
+    justify-content: space-between;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(237, 229, 2);
+  font-size: 8pt;
+  font-weight: 400;
+  background-color: rgb(30, 30, 30);
+  color: rgb(237, 237, 237);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "✨ MONIKER";
+}
+
 .tag[href="#nby"] {
   font-size: 0;
   padding: 0;
@@ -69,14 +87,32 @@
   color: rgb(237, 237, 237);
   padding: 3px 3px;
   border-radius: 3px;
-  content: "🌙 PROGNOSTIC";
+  content: "🌙 PURGATUS PROGNOSIS";
 }
 
-.tag[href="#smc"] {
+.tag[href="#rsl"] {
   font-size: 0;
   padding: 0;
 }
-.tag[href="#smc"]:after {
+.tag[href="#rsl"]:after {
+    justify-content: space-between;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(237, 229, 2);
+  font-size: 8pt;
+  font-weight: 400;
+  background-color: rgb(30, 30, 30);
+  color: rgb(237, 237, 237);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "🌞 ELOQUII ACCENDO";
+}
+
+.tag[href="#sma"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#sma"]:after {
     justify-content: space-between;
    border-style: solid;
   border-width: thin;
@@ -106,6 +142,24 @@
   padding: 3px 3px;
   border-radius: 3px;
   content: "🌊 SURAH";
+}
+
+.tag[href="#mhk"] {
+  font-size: 0;
+  padding: 0;
+}
+.tag[href="#mhk"]:after {
+    justify-content: space-between;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(95, 109, 112);
+  font-size: 8pt;
+  font-weight: 400;
+  background-color: rgb(30, 30, 30);
+  color: rgb(237, 237, 237);
+  padding: 3px 3px;
+  border-radius: 3px;
+  content: "⚙️ MUHKAMAT";
 }
 
 .tag[href="#imd"] {
