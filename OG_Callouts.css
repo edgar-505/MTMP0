@@ -15,4 +15,5 @@ body {
 
 .callout-content {
     background-color: var(--background-secondary);
+    font-size: 8pt;
 }
